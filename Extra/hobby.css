@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+.hob {
+  text-align: center;
+  font-family: "Noto Serif Display", serif;
+  font-weight: 300;
+  font-style: normal;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  color: #345fbd;
+  font-size: 3rem;
+}
+.code {
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #172a52;
+  display: inline-block;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.tel {
+  text-align: center;
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #172a52;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.center-oka {
+  background-color: #0e2350;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 20px 40px;
+  margin-top: 25px;
+  margin-left: 700px;
+}
+button:hover {
+  background-color: #789eee;
+  transition: .9;
+}
+button:active {
+  background-color: #eb2e47;
+}
+footer {
+  background-color: #a6f1e5;
+  padding: 150px 100px;
+  margin-top: 70px;
+  margin-bottom: 0;
+}
+
+.container-flex{
+ display: flex; 
+ justify-content: center;
+ align-items: center;
+ gap: 30px;
+ margin-left: 5px;
+
+}
+.face {
+  color: #0e2350;
+}
+.foot {
+  text-align: center;
+  color: rgb(175, 167, 167);
+  margin-top: 0px;
+  
+}
