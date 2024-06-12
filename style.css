@@ -82,7 +82,7 @@ ul {
   padding-top: 100px;
   padding-left: 90px;
   padding-right: 500px;
-  padding-bottom: 100px;
+  padding-bottom: 190px;
   
 }
 img {
@@ -178,7 +178,7 @@ footer {
    
  }
 
-/*@media(max-width: 450px) {
+@media(max-width: 800px) {
   body {
     margin: 0; 
     top: 0;
@@ -356,4 +356,4 @@ footer {
      margin-top: 0px;
      
    }
-}*/
+}
