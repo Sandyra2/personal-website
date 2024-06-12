@@ -82,8 +82,7 @@ footer {
   
 }
 
-@media (max-width: 450px) {
-  /* CSS for screens below or equal to 600px wide */
+/*@media (max-width: 450px) {
   .container {
     display: inline-block;
     gap: 50px;
@@ -139,5 +138,4 @@ footer {
     margin-top: 0px;
     
   }
-  
-}
+}*/
